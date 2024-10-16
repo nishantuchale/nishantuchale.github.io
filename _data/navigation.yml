@@ -10,13 +10,13 @@ main:
   #   url: /teaching/
 
   - title: "Research"
-    url: /research/
+    url: research/
     
   - title: "CV"
-    url: /cv/
+    url: cv/
 
   - title: "Presentations"
-    url: /presentations/
+    url: presentations/
 
   - title: "Outreach"
-    url: /outreach/
+    url: outreach/
