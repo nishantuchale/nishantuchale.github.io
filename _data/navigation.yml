@@ -9,14 +9,14 @@ main:
   # - title: "Teaching"
   #   url: /teaching/
 
-  - title: "Posts"
-    url: /posts/
+  - title: "Research"
+    url: /research/
     
   - title: "CV"
     url: /cv/
 
-  - title: "PyScanCf"
-    url: /PyScanCf/
+  - title: "Presentations"
+    url: /presentations/
 
-  - title: "Resource Hub"
-    url: /ResourceHub/
+  - title: "Outreach"
+    url: /outreach/
