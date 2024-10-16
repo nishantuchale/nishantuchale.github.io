@@ -11,12 +11,12 @@ main:
 
   - title: "Research"
     url: research/
-    
-  - title: "CV"
-    url: cv/
 
   - title: "Presentations"
     url: presentations/
 
   - title: "Outreach"
     url: outreach/
+
+  - title: "CV"
+    url: cv/
