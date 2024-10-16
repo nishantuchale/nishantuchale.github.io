@@ -83,13 +83,13 @@ analytics:
 # Site Author
 author:
   name             : "Nishant N. Uchale"
-  avatar           : "profile.png"
+  avatar           : "Profile_pic_git.png"
   bio              : "I believe there are answers in the sky - The Aeronauts"
   location         :
   employer         : 
   pubmed           :
   orcid            : "https://orcid.org/0009-0007-6945-9740"
-  googlescholar    : "https://scholar.google.com/citations?user=f1DO2GEAAAAJ&hl"
+  googlescholar    : #"https://scholar.google.com/citations?user=f1DO2GEAAAAJ&hl"
   email            : "nishant.uchale@icts.res.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   gitlab           : 
   google_plus      :
   keybase          :
-  instagram        : "hamidrixvi"
+  instagram        : "nishant_uchale"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "hamidrixvi"
@@ -112,7 +112,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "hamidrixvi"
+  twitter          : "Nishant_Uchale"
   vine             :
   weibo            :
   xing             :
