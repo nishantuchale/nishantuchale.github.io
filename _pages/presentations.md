@@ -2,6 +2,6 @@
 permalink: /presentations/
 title: "Talks and Posters"
 header:
-  image: cyclone.png
+  image: atm-ocean.png
 
 ---
