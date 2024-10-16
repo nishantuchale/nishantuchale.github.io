@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : hamidrixvi
+  username               : Nishant_Uchale
 facebook:
-  username               : hamidrixvi
+  username               : #hamidrixvi
   app_id                 :
   publisher              :
 og_image                 : profile_git.png # Open Graph/Twitter default site image
@@ -85,7 +85,7 @@ author:
   name             : "Nishant N. Uchale"
   avatar           : "profile_git.png"
   bio              : "I believe there are answers in the sky - The Aeronauts"
-  location         :
+  location         : Bangalore, India
   employer         : 
   pubmed           :
   orcid            : "https://orcid.org/0009-0007-6945-9740"
