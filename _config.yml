@@ -11,9 +11,9 @@ title                    : "Nishant N. Uchale"
 title_separator          : "-"
 name                     : &name "Nishant N. Uchale"
 description              : &description "M. Tech Atmospheric Science"
-url                      : https://syedha.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nishant-uchale.github.io/nishantnu/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "syedhamidali/syedhamidali.github.io"
+repository               : "nishant-uchale/nishantnu/"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
