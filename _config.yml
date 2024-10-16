@@ -62,7 +62,7 @@ facebook:
   username               : hamidrixvi
   app_id                 :
   publisher              :
-og_image                 : profile.png # Open Graph/Twitter default site image
+og_image                 : Profile_pic_git.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -97,7 +97,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "hamidrixvi"
+  facebook         : #"hamidrixvi"
   foursquare       :
   github           : "nishant-uchale"
   gitlab           : 
@@ -106,7 +106,7 @@ author:
   instagram        : "nishant_uchale"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "hamidrixvi"
+  linkedin         : "nishant-n-uchale-364a9a200"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
