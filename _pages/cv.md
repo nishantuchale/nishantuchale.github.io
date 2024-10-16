@@ -94,6 +94,6 @@ Languages
 ====== 
   * Kashmiri, English, Urdu, & Hindi -->
 
-<iframe src="/files/pdf/CV.pdf" width="100%" height="600" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/pdf/Nishant-CV.pdf" width="100%" height="600" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 [**Download CV**](/files/pdf/CV.pdf).
