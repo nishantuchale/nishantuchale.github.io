@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Syed Hamid Ali"
+title                    : "Nishant N. Uchale"
 title_separator          : "-"
-name                     : &name "Syed Hamid Ali"
+name                     : &name "Nishant N. Uchale"
 description              : &description "M. Tech Atmospheric Science"
 url                      : https://syedha.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,15 +82,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Syed Hamid Ali"
+  name             : "Nishant N. Uchale"
   avatar           : "profile.png"
   bio              : "I believe there are answers in the sky - The Aeronauts"
   location         :
   employer         : 
   pubmed           :
-  orcid            : "https://orcid.org/0000-0002-7188-2544"
+  orcid            : "https://orcid.org/0009-0007-6945-9740"
   googlescholar    : "https://scholar.google.com/citations?user=f1DO2GEAAAAJ&hl"
-  email            : "mail@syedha.com"
+  email            : "nishant.uchale@icts.res.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   flickr           :
   facebook         : "hamidrixvi"
   foursquare       :
-  github           : "syedhamidali"
+  github           : "nishant-uchale"
   gitlab           : 
   google_plus      :
   keybase          :
