@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello!"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 header:
