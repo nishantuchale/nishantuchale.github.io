@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Hello!"
-excerpt: ""
+excerpt: "About me"
 author_profile: true
 header:
   image: Banner-Front2.png
