@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Hello!"
+excerpt: ""
 author_profile: true
 header:
   image: Banner-Front2.png
@@ -17,6 +18,4 @@ As part of my journey, I have pursued a Bachelor’s degree in Mathematics and a
 Currently, I am a visiting research student at [Fluid Dynamics and Turbulence group](https://www.icts.res.in/research/fluid-dynamics){:target="_blank"}, [International Centre for Theoretical Sciences (ICTS)]([https://purdue.edu](https://www.icts.res.in/)){:target="_blank"}, where I have the privilege of working under the expert guidance of [Prof. Jim Thomas](https://jimthomasedu.github.io/){:target="_blank"}. My research is focused on Geophysical Turbulence in Oceans with the ultimate goal of understanding the energy transfers in the internal-wave continuum.
 
 With every new challenge and project, I am constantly striving to expand my knowledge and skills, and I believe that my passion for atmospheric sciences will continue to inspire me throughout my academic and professional journey. Thank you for taking the time to read my profile, and I look forward to connecting with others who share my passion for meteorology and the natural world.
-
-Ignore (excerpt: "About me")
 
