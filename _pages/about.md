@@ -5,6 +5,7 @@ excerpt: "About me"
 author_profile: true
 header:
   image: Banner-Front2.png
+  caption: "[Courtesy: Syed Hamid Ali](https://github.com/syedhamidali)"
 redirect_from: 
   - /about/
   - /about.html
