@@ -17,9 +17,9 @@ Later I have worked under Prof. Vishal Dixit at the [Monsoon Dynamics Lab](https
 Currently, I have been working under Prof. Jim Thomas in the [GFD group](https://www.icts.res.in/people/nishant-n-uchale) at ICTS-TIFR and TIFR-CAM since Feb 2024 where I am working on understanding the energy flow pathways in the internal wave continuum in oceans. My ongoing research work is supported by the Long-Term Visiting Student Rsearch Fellowship.
 
 # Publications
-1. Uchale, N. N. & Singh, B. B. (2024) Characteristics and projected changes in maximum daily precipitation across the
+1. **Uchale, N. N.** & Singh, B. B. (2024) Characteristics and projected changes in maximum daily precipitation across the
 globe. Conditionally accepted in QJRMS
-2. Singh, B. B. & Uchale, N. N. (2025) Changing temporal and spatial distribution of precipitation extremes over the
+2. Singh, B. B. & **Uchale, N. N.** (2025) Changing temporal and spatial distribution of precipitation extremes over the
 globe in a warmer climate. In prep
 <nbsp>
 
