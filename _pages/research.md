@@ -10,7 +10,7 @@ header:
 ---
 I am broadly interested in the profound interactions and the interconnected dynamics between our Earth's atmosphere and oceans shaping our weather and climate
 
-I have worked under Dr. Bhupendra Singh at the [Centre for Climate Change and Research](http://cccr.tropmet.res.in/home/index.jsp) since July 2022 on projects related to precipitation extremes and exploring its changing dynamics in a warmer climate.
+I have worked under Dr. Bhupendra Singh at the [Centre for Climate Change and Research](http://cccr.tropmet.res.in/home/index.jsp) since July 2022 on projects related to precipitation extremes and exploring its changing dynamics in a warming climate.
 
 Later I have worked under Prof. Vishal Dixit at the [Monsoon Dynamics Lab](https://www.climate.iitb.ac.in/?page_id=8368) in IIT Bombay since Aug 2023 to Jan 2024 on developing a relationship between near-surface air temperature and humidity and understand the mechanism leading to temperature extremes.
 
