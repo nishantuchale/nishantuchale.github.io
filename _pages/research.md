@@ -19,8 +19,7 @@ Currently, I have been working under Prof. Jim Thomas in the [GFD group](https:/
 # Publications
 1. **Uchale, N. N.** & Singh, B. B. (2024) Characteristics and projected changes in maximum daily precipitation across the
 globe. ***Conditionally accepted in QJRMS***
-2. Singh, B. B. & **Uchale, N. N.** (2025) Changing temporal and spatial distribution of precipitation extremes over the
-globe in a warmer climate. ***In prep***
+2. Singh, B. B. & **Uchale, N. N.** (2025) Which continents and ocean basins are more susceptible to strong changes in precipitation extremes in a warmer climate. ***In prep***
 <nbsp>
 
 {% include base_path %}
