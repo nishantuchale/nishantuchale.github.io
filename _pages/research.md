@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 header:
-  image: research/ecdf.png
+  image: gfd.png
   caption: "[Syed Hamid Ali](https://github.com/syedhamidali)"
   
 ---
