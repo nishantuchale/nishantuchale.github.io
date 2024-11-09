@@ -4,7 +4,7 @@ title: "Gallery"
 permalink: /gallery/
 author_profile: true
 header:
-  image: research/ecdf.png
+  image: Banner_front4.png
   caption: "[Syed Hamid Ali](https://github.com/syedhamidali)"
   
 ---
