@@ -4,8 +4,8 @@ title: "Research"
 permalink: /research/
 author_profile: true
 header:
-  image: gfd.png
-  caption: "[Goddard Space Flight Center (GSFC)-NASA](https://svs.gsfc.nasa.gov/vis/a030000/a030000/a030017/frames/4000x2000_2x1_30p/rad/)"
+  image: research/ecdf.png
+  caption: "[Syed Hamid Ali](https://github.com/syedhamidali)"
   
 ---
 I am broadly interested in the profound interactions and the interconnected dynamics between our Earth's atmosphere and oceans shaping our weather and climate
