@@ -5,7 +5,7 @@ header:
   image: ocean_wave.png
 
 ---
-![Illustration of combining vision and language modalities](personal/web_talk.jpg){: .align-right width="300px}
+![AMS talk](personal/web_talk.JPG){: .align-right width="300px"}
   * **2023** Characteristics of global precipitation extremes in CMIP6 models: *Annual Monsoon Workshop and National Symposium on Challenges in Climate services for health sector in the warming environment held from 28th to 30th March 2023 at IITM Pune organized by Indian Meteorological Society.* **Secured 3rd prize**
   * **2023** Cloud Physics seminar on ”Mesoscale Convective Systems”, on Science Day *(28th Feb)* at Savitribai Phule Pune University, India.
 
