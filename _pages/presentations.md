@@ -18,7 +18,7 @@ header:
 
   * **Nishant N. Uchale**, Bhupendra Bahadur Singh, Pradeep Kumar Pallath (2023): Characteristics of global precipitation extremes in CMIP6 models, *”WCRP Open Science Conference” held in Kigali, Rwanda, on 23-27 October 2023 (online)*.
 
-![AMS talk](/images/personal/web_poster.jpg){: .align-left width="310px" height="280px" margin-right}
+![AMS talk](/images/personal/web_poster.jpg){: .align-center width="310px" height="280px" margin-right}
 ![AMS talk](/images/personal/web_posexp.jpg){: .align-right width="310px" height="280px" margin-right}
 
 <!-- <div class="timelineitem">
