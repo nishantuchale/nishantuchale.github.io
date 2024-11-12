@@ -5,7 +5,7 @@ header:
   image: ocean_wave.png
 
 ---
-![AMS talk](/images/personal/web_talk2.png){: .align-right width="200px" height="200px"}
+![AMS talk](/images/personal/web_talk2.png){: .align-right width="300px" height="300px"}
   * **2023** Characteristics of global precipitation extremes in CMIP6 models: *Annual Monsoon Workshop and National Symposium on Challenges in Climate services for health sector in the warming environment held from 28th to 30th March 2023 at IITM Pune organized by Indian Meteorological Society.* **Secured 3rd prize**
   * **2023** Cloud Physics seminar on ”Mesoscale Convective Systems”, on Science Day *(28th Feb)* at Savitribai Phule Pune University, India.
 
@@ -15,7 +15,7 @@ header:
   * **Nishant N. Uchale**, Bhupendra Bahadur Singh, Pradeep Kumar Pallath (2023): Characteristics of global precipitation extremes in CMIP6 models, *”WCRP Open Science Conference” held in Kigali, Rwanda, on 23-27 October 2023 (online)*.
 
 
-<div class="timelineitem">
+<!-- <div class="timelineitem">
   <div class="tdate"> Apr 2023 </div>
   <div class="ttitle">Characteristics of global precipitation extremes in CMIP6 models </div>
   <div class="tdesc">*Annual Monsoon Workshop and National Symposium on Challenges in Climate services for health sector in the warming environment held from 28th to 30th March 2023 at IITM Pune organized by Indian Meteorological Society.* **Secured 3rd prize**
@@ -62,4 +62,4 @@ header:
   <div class="ttitle">Binary Stellar Evolution using COSMIC (Compact Object Synthesis and Monte Carlo Investigation Code)</div>
   <div class="tdesc">Delivered a talk in the conclusion of ICTS GW Summer School mini-research project (<span style="color:grey">Talk</span>)
   <br>               International Centre for Theoretical Sciences, Bengaluru, India </div>
-</div>
+</div> -->
