@@ -13,9 +13,13 @@ header:
 
 # Poster
   * **Nishant N. Uchale**, & Bhupendra Bahadur Singh (2024): Characteristics and projected changes in maximum daily precipitation across the globe, *”Theoretical and Practical Perspectives in Geophysical Fluid Dynamics” at ICTS-TIFR, Bangalore, India.*
+
   * **Nishant N. Uchale**, & Bhupendra Bahadur Singh, Pradeep Kumar Pallath (2023): Analysis of global precipitation extremes in CMIP6 models, *National Symposium **TROPMET-2023** on Changing Dynamics of Arid Region and Impact on Weather and Climate over Indian Sub-continent organized by Indian Meteorological Society and Birla Institute of Technology, Mesra, Jaipur, India.*
+
   * **Nishant N. Uchale**, Bhupendra Bahadur Singh, Pradeep Kumar Pallath (2023): Characteristics of global precipitation extremes in CMIP6 models, *”WCRP Open Science Conference” held in Kigali, Rwanda, on 23-27 October 2023 (online)*.
 
+![AMS talk](/images/personal/web_poster.jpg){: .align-left width="300px" height="300px" margin-right}
+![AMS talk](/images/personal/web_posterexp.jpg){: .align-right width="300px" height="300px" margin-right}
 
 <!-- <div class="timelineitem">
   <div class="tdate"> Apr 2023 </div>
