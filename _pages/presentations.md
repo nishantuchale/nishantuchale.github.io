@@ -5,7 +5,7 @@ header:
   image: ocean_wave.png
 
 ---
-![AMS talk](/images/personal/web_talk2.png){: .align-right width="100px"}
+![AMS talk](/images/personal/web_talk2.png){: .align-right width="200px" height="200px"}
   * **2023** Characteristics of global precipitation extremes in CMIP6 models: *Annual Monsoon Workshop and National Symposium on Challenges in Climate services for health sector in the warming environment held from 28th to 30th March 2023 at IITM Pune organized by Indian Meteorological Society.* **Secured 3rd prize**
   * **2023** Cloud Physics seminar on ”Mesoscale Convective Systems”, on Science Day *(28th Feb)* at Savitribai Phule Pune University, India.
 
@@ -16,11 +16,10 @@ header:
 
 
 <div class="timelineitem">
-  <div class="tdate"> Apr 2024 </div>
-  <div class="ttitle">Impact of Magnetic Fields on Gravitational Waves from Binary Neutron Stars </div>
-  <div class="tdesc">ICTS In-House Symposium 2024 (<a
-      href="https://www.youtube.com/watch?v=k9Oo8Oc65JM">YouTube</a>)
-      <br> International Centre for Theoretical Sciences, Bengaluru, India </div>
+  <div class="tdate"> Apr 2023 </div>
+  <div class="ttitle">Characteristics of global precipitation extremes in CMIP6 models </div>
+  <div class="tdesc">*Annual Monsoon Workshop and National Symposium on Challenges in Climate services for health sector in the warming environment held from 28th to 30th March 2023 at IITM Pune organized by Indian Meteorological Society.* **Secured 3rd prize**
+      <br> Indian Institute of Tropical Meteorology, Pune, India </div>
 </div>
     
 <div class="timelineitem">
