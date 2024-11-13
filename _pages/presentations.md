@@ -7,8 +7,8 @@ header:
 ---
 
 
-![AMS talk](/images/personal/web_talk2.png){: .align-right width="300px" height="200px" margin-right}
-<!-- ![AMS talk](/images/personal/web_award.jpg){: .align-right width="300px" height="300px" margin-right border-radius: 8px} -->
+<!-- ![AMS talk](/images/personal/web_talk2.png){: .align-right width="300px" height="200px" margin-right} -->
+![AMS talk](/images/personal/web_award.jpg){: .align-right width="300px" height="300px" margin-right}
 <!-- <div class="gallery">
   <a target="_blank" href="/images/personal/web_award.jpg">
     <img src="/images/personal/web_award.jpg" alt="Flowers in Chania" align-right width="400px" height="400px" > -->
