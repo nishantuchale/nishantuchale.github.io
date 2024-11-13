@@ -5,19 +5,7 @@ header:
   image: ocean_wave.png
 
 ---
-<html>
-<head>
-<style>
-div.gallery {
-  float: right;
-  width: 200px;
-}  
-img {
-  border-radius: 8px;
-}
-</style>
-</head>
-<body>
+
 
 ![AMS talk](/images/personal/web_talk2.png){: .align-right width="300px" height="200px" margin-right}
 <!-- ![AMS talk](/images/personal/web_award.jpg){: .align-right width="300px" height="300px" margin-right border-radius: 8px} -->
