@@ -73,9 +73,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : "goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
+  provider               : "google-universal" #"goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
   google:
-    tracking_id          : "G-WYZXEG5H3K"
+    tracking_id          : 
   goatcounter:
     code		 : 
 
@@ -97,7 +97,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : #"hamidrixvi"
+  facebook         : 
   foursquare       :
   github           : "nishantuchale"
   gitlab           : 
