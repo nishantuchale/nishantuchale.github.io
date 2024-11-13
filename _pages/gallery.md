@@ -17,5 +17,5 @@ header:
 
 ![AMS talk](/images/myclicked/pondicity_cloud.jpg){: .align-center width="300px" height="250px" margin-right} -->
 
-<img src="/images/myclicked/pondiriver_cloudsys.jpg" alt="Flowers in Chania">
+<img src="/images/myclicked/pondiriver_cloudsys.jpg" alt="Flowers in Chania" border-radius: 8px>
 

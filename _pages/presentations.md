@@ -6,7 +6,7 @@ header:
 
 ---
 <!-- ![AMS talk](/images/personal/web_talk2.png){: .align-right width="300px" height="200px" margin-right} -->
-![AMS talk](/images/personal/web_award.jpg){: .align-right width="300px" height="300px" margin-right}
+![AMS talk](/images/personal/web_award.jpg){: .align-right width="300px" height="300px" margin-right border-radius: 8px}
   * **2023** Characteristics of global precipitation extremes in CMIP6 models: *Annual Monsoon Workshop and National Symposium on Challenges in Climate services for health sector in the warming environment held from 28th to 30th March 2023 at IITM Pune organized by Indian Meteorological Society.* **Secured 3rd prize**
 
   * **2023** Cloud Physics seminar on ”Mesoscale Convective Systems”, on Science Day *(28th Feb)* at Savitribai Phule Pune University, India.
@@ -18,8 +18,8 @@ header:
 
   * **Nishant N. Uchale**, Bhupendra Bahadur Singh, Pradeep Kumar Pallath (2023): Characteristics of global precipitation extremes in CMIP6 models, *”WCRP Open Science Conference” held in Kigali, Rwanda, on 23-27 October 2023 (online)*.
 
-![AMS talk](/images/personal/web_poster.jpg){: .align-left width="310px" height="260px" margin-left}
-![AMS talk](/images/personal/web_posexp.jpg){: .align-right width="310px" height="260px" margin-right}
+![AMS talk](/images/personal/web_poster.jpg){: .align-left width="310px" height="200px" margin-left border-radius: 8px}
+![AMS talk](/images/personal/web_posexp.jpg){: .align-right width="310px" height="200px" margin-right border-radius: 8px}
 
 <!-- <div class="timelineitem">
   <div class="tdate"> Apr 2023 </div>
