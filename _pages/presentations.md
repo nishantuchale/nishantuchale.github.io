@@ -19,6 +19,10 @@ header:
   * **2023** Cloud Physics seminar on ”Mesoscale Convective Systems”, on Science Day *(28th Feb)* at Savitribai Phule Pune University, India.
 
 # Poster
+  * **Nishant N. Uchale**, & Jim Thomas (2024): Energy transfers in internal-gravity wave turbulence, *”Moist Convective Dynamics of Monsoons” at ICTS-TIFR, Bangalore, India.*
+
+  * **Nishant N. Uchale**, & Jim Thomas (2024): Energy transfers in the internal-wave continuum, *”Climate Dynamics and Networks” at ICTS-TIFR, Bangalore, India.*
+
   * **Nishant N. Uchale**, & Bhupendra Bahadur Singh (2024): Characteristics and projected changes in maximum daily precipitation across the globe, *”Theoretical and Practical Perspectives in Geophysical Fluid Dynamics” at ICTS-TIFR, Bangalore, India.*
 
   * **Nishant N. Uchale**, & Bhupendra Bahadur Singh, Pradeep Kumar Pallath (2023): Analysis of global precipitation extremes in CMIP6 models, *National Symposium **TROPMET-2023** on Changing Dynamics of Arid Region and Impact on Weather and Climate over Indian Sub-continent organized by Indian Meteorological Society and Birla Institute of Technology, Mesra, Jaipur, India.*
