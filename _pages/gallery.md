@@ -14,6 +14,8 @@ header:
 img {
   border-radius: 20px;
   padding: 12px;
+  width:150px;
+  height:75px
 }
 </style>
 </head>
@@ -27,6 +29,6 @@ img {
 
 ![AMS talk](/images/myclicked/pondicity_cloud.jpg){: .align-center width="300px" height="250px" margin-right} -->
 
-<img src="/images/myclicked/pondiriver_cloudsys.jpg" alt="Cloud1" style="width:150px height:75px" >
-<img src="/images/myclicked/pondicity_cloud.jpg" alt="Cloud1" style="width:150px height:75px" >
+<img src="/images/myclicked/pondiriver_cloudsys.jpg" alt="Cloud1"  >
+<img src="/images/myclicked/pondicity_cloud.jpg" alt="Cloud1"  >
 
