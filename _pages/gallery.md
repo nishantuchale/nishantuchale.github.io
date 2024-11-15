@@ -21,6 +21,16 @@ img {
 </head>
 <body>
 
+<!-- div {
+  text-align: justify;
+}
+
+div:after {
+  content: "";
+  display: inline-block;
+  width: 100%;
+} -->
+
 <!-- ![AMS talk](/images/myclicked/pondiriver_cloudsys.jpg){: .align-left width="300px" height="250px" margin-right}
 
 ![AMS talk](/images/myclicked/pondibeach_cloud.jpg){: .align-right width="300px" height="250px" margin-right}
@@ -32,4 +42,4 @@ img {
 <img src="/images/myclicked/pondiriver_cloudsys.jpg" alt="Cloud1"  >
 <img src="/images/myclicked/pondicity_cloud.jpg" alt="Cloud1"  >
 <img src="/images/myclicked/pondibeach_cloud.jpg" alt="Cloud1"  >
-
+<nbsp>
