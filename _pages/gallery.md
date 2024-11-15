@@ -14,8 +14,8 @@ header:
 img {
   border-radius: 20px;
   padding: 12px;
-  width:150px;
-  height:75px
+  width:350px;
+  height:25px
 }
 </style>
 </head>
