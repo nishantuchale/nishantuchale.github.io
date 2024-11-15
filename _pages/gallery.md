@@ -15,7 +15,7 @@ img {
   border-radius: 20px;
   padding: 12px;
   width:350px;
-  height:25px
+  height:250px
 }
 </style>
 </head>
@@ -31,4 +31,5 @@ img {
 
 <img src="/images/myclicked/pondiriver_cloudsys.jpg" alt="Cloud1"  >
 <img src="/images/myclicked/pondicity_cloud.jpg" alt="Cloud1"  >
+<img src="/images/myclicked/pondibeach_cloud.jpg" alt="Cloud1"  >
 
