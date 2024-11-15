@@ -22,10 +22,10 @@ globe. ***Conditionally accepted in QJRMS***
 2. Singh, B. B. & **Uchale, N. N.** (2025) Which continents and ocean basins are more susceptible to strong changes in precipitation extremes in a warmer climate. ***In prep***
 <nbsp>
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 {% assign ordered_pages = site.research | sort:"order_number" %}
 
 {% for post in ordered_pages %}
   {% include archive-single.html type="grid" %}
-{% endfor %}
+{% endfor %} -->
