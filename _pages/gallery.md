@@ -12,7 +12,10 @@ header:
 <head>
 <style>
 img {
-  border-radius: 8px;
+  border-radius: 20px;
+  padding: 12px;
+  width: 200px;
+  height: 200px;
 }
 </style>
 </head>
@@ -26,5 +29,6 @@ img {
 
 ![AMS talk](/images/myclicked/pondicity_cloud.jpg){: .align-center width="300px" height="250px" margin-right} -->
 
-<img src="/images/myclicked/pondiriver_cloudsys.jpg" alt="Flowers in Chania" >
+<img src="/images/myclicked/pondiriver_cloudsys.jpg" alt="Cloud1" style="width:350px" >
+<img src="/images/myclicked/pondicity_cloud.jpg" alt="Cloud1" style="width:350px" >
 
