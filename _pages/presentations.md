@@ -31,6 +31,7 @@ em3 { font-weight: bold; font-style: italic;}
   <em1>2023</em1> Cloud Physics seminar on ”Mesoscale Convective Systems”, on Science Day <em2>(28th Feb)</em2> at Savitribai Phule Pune University, India.</p>
 
 <h1> Posters</h1>
+<full-width-text>
  <p> <em1>Nishant N. Uchale</em1>, & Jim Thomas (2024): Energy transfers in internal-gravity wave turbulence, <em2>”Moist Convective Dynamics of Monsoons” at ICTS-TIFR, Bangalore, India.</em2></p>
 
  <p> <em1>Nishant N. Uchale</em1>, & Jim Thomas (2024): Energy transfers in the internal-wave continuum, <em2>”Climate Dynamics and Networks” at ICTS-TIFR, Bangalore, India.</em2></p>
@@ -46,7 +47,7 @@ em3 { font-weight: bold; font-style: italic;}
 
 <img src="/images/personal/web_poster.jpg" alt="Cloud1" style="width:350px height:350px" >
 <img src="/images/personal/web_posexp.jpg" alt="Cloud1" style="width:350px height:350px" >
-
+</full-width-text>
 <!-- <div class="timelineitem">
   <div class="tdate"> Apr 2023 </div>
   <div class="ttitle">Characteristics of global precipitation extremes in CMIP6 models </div>
@@ -54,7 +55,7 @@ em3 { font-weight: bold; font-style: italic;}
       <br> Indian Institute of Tropical Meteorology, Pune, India </div>
 </div>
     
-<div class="timelineitem">
+<!-- <div class="timelineitem">
   <div class="tdate"> Feb 2024 </div>
   <div class="ttitle">Gravitational Waves from Inspiraling Neutron Star Binaries: Magnetic Fields, Tidal Fields and Eccentricities</div>
   <div class="tdesc">42nd meeting of the Astronomical Society of India (<span style="color:grey">Poster</span>)
@@ -94,4 +95,4 @@ em3 { font-weight: bold; font-style: italic;}
   <div class="ttitle">Binary Stellar Evolution using COSMIC (Compact Object Synthesis and Monte Carlo Investigation Code)</div>
   <div class="tdesc">Delivered a talk in the conclusion of ICTS GW Summer School mini-research project (<span style="color:grey">Talk</span>)
   <br>               International Centre for Theoretical Sciences, Bengaluru, India </div>
-</div> -->
+</div> --> -->
