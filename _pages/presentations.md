@@ -22,7 +22,7 @@ em3 { font-weight: bold; font-style: italic;}
 
 <!-- ![AMS talk](/images/personal/web_talk2.png){: .align-right width="300px" height="200px" margin-right} -->
 <!-- ![AMS talk](/images/personal/web_award.jpg){: .align-right width="300px" height="300px" margin-right} -->
-<img src="/images/personal/web_award.jpg" alt="Cloud1" align="right" style="height:300px" >
+<img src="/images/personal/web_award.jpg" alt="Cloud1"  style="height:300px" align="right">
 <!-- <img src="paris.jpg" alt="Paris" style="width:50%" align="right"> -->
 
 <p>
