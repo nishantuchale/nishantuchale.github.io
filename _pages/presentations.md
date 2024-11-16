@@ -10,7 +10,7 @@ header:
 <style>
 img {
   border-radius: 20px;
-  padding: 12px;
+  padding: 15px;
   width:350px;
 }
 em1 { font-weight: bold; }
@@ -22,7 +22,7 @@ em3 { font-weight: bold; font-style: italic;}
 
 <!-- ![AMS talk](/images/personal/web_talk2.png){: .align-right width="300px" height="200px" margin-right} -->
 <!-- ![AMS talk](/images/personal/web_award.jpg){: .align-right width="300px" height="300px" margin-right} -->
-<img src="/images/personal/web_award.jpg" alt="Cloud1"  style="height:350px width:300px;" align="right">
+<img src="/images/personal/web_award.jpg" alt="Cloud1"  style="height:320px width:270px;" align="right">
 <!-- <img src="paris.jpg" alt="Paris" style="width:50%" align="right"> -->
 
 <p>
@@ -38,7 +38,7 @@ em3 { font-weight: bold; font-style: italic;}
 
   <p><em1>Nishant N. Uchale</em1>, & Bhupendra Bahadur Singh (2024): Characteristics and projected changes in maximum daily precipitation across the globe, <em2>”Theoretical and Practical Perspectives in Geophysical Fluid Dynamics” at ICTS-TIFR, Bangalore, India.</em2></p>
 
-  <p><em1>Nishant N. Uchale</em1>, & Bhupendra Bahadur Singh, Pradeep Kumar Pallath (2023): Analysis of global precipitation extremes in CMIP6 models, <em2> National Symposium **TROPMET-2023** on Changing Dynamics of Arid Region and Impact on Weather and Climate over Indian Sub-continent organized by Indian Meteorological Society and Birla Institute of Technology, Mesra, Jaipur, India.</em2></p>
+  <p><em1>Nishant N. Uchale</em1>, & Bhupendra Bahadur Singh, Pradeep Kumar Pallath (2023): Analysis of global precipitation extremes in CMIP6 models, <em2> National Symposium </em2> <em1>TROPMET-2023</em1> <em2>on Changing Dynamics of Arid Region and Impact on Weather and Climate over Indian Sub-continent organized by Indian Meteorological Society and Birla Institute of Technology, Mesra, Jaipur, India.</em2></p>
 
   <p><em1>Nishant N. Uchale</em1>, Bhupendra Bahadur Singh, Pradeep Kumar Pallath (2023): Characteristics of global precipitation extremes in CMIP6 models, <em2>”WCRP Open Science Conference” held in Kigali, Rwanda, on 23-27 October 2023 (online)</em2>.</p>
 
@@ -95,4 +95,4 @@ em3 { font-weight: bold; font-style: italic;}
   <div class="ttitle">Binary Stellar Evolution using COSMIC (Compact Object Synthesis and Monte Carlo Investigation Code)</div>
   <div class="tdesc">Delivered a talk in the conclusion of ICTS GW Summer School mini-research project (<span style="color:grey">Talk</span>)
   <br>               International Centre for Theoretical Sciences, Bengaluru, India </div>
-</div> --> -->
+</div> -->
