@@ -22,7 +22,7 @@ em3 { font-weight: bold; font-style: italic;}
 
 <!-- ![AMS talk](/images/personal/web_talk2.png){: .align-right width="300px" height="200px" margin-right} -->
 <!-- ![AMS talk](/images/personal/web_award.jpg){: .align-right width="300px" height="300px" margin-right} -->
-<img src="/images/personal/web_award.jpg" alt="Cloud1"  style="height:350px" align="right">
+<img src="/images/personal/web_award.jpg" alt="Cloud1"  style="height:350px width:300px;" align="right">
 <!-- <img src="paris.jpg" alt="Paris" style="width:50%" align="right"> -->
 
 <p>
@@ -44,8 +44,8 @@ em3 { font-weight: bold; font-style: italic;}
 <!-- ![AMS talk](/images/personal/web_poster.jpg){: .align-left width="310px" height="150px" margin-left border-radius: 8px}
 ![AMS talk](/images/personal/web_posexp.jpg){: .align-right width="310px" height="150px" margin-right border-radius: 8px} -->
 
-<img src="/images/personal/web_poster.jpg" alt="Cloud1" height="350px" >
-<img src="/images/personal/web_posexp.jpg" alt="Cloud1" height="350px" >
+<img src="/images/personal/web_poster.jpg" alt="Cloud1" style="width:350px height:350px" >
+<img src="/images/personal/web_posexp.jpg" alt="Cloud1" style="width:350px height:350px" >
 
 <!-- <div class="timelineitem">
   <div class="tdate"> Apr 2023 </div>
