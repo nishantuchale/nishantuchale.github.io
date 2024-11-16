@@ -22,7 +22,8 @@ em3 { font-weight: bold; font-style: italic;}
 
 <!-- ![AMS talk](/images/personal/web_talk2.png){: .align-right width="300px" height="200px" margin-right} -->
 <!-- ![AMS talk](/images/personal/web_award.jpg){: .align-right width="300px" height="300px" margin-right} -->
-<img src="/images/personal/web_award.jpg" alt="Cloud1" align="right"height="450px" >
+<img src="/images/personal/web_award.jpg" alt="Cloud1" align="right" style="height:300px" >
+<!-- <img src="paris.jpg" alt="Paris" style="width:50%" align="right"> -->
 
 <p>
   <em1>2023</em1> Characteristics of global precipitation extremes in CMIP6 models: <em2>Annual Monsoon Workshop and National Symposium on Challenges in Climate services for health sector in the warming environment held from 28th to 30th March 2023 at IITM Pune organized by Indian Meteorological Society.</em2> <em3>Secured 3rd prize</em3> </p>
