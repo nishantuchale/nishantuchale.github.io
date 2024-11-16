@@ -12,31 +12,33 @@ img {
   border-radius: 20px;
   padding: 12px;
   width:350px;
-  height:250px
 }
+em1 { font-weight: bold; }
+em2 { font-style: italic; }
+em3 { font-weight: bold; font-style: italic;}
 </style>
 </head>
 <body>
 
 <!-- ![AMS talk](/images/personal/web_talk2.png){: .align-right width="300px" height="200px" margin-right} -->
 <!-- ![AMS talk](/images/personal/web_award.jpg){: .align-right width="300px" height="300px" margin-right} -->
-<img src="/images/personal/web_award.jpg" alt="Cloud1" align="right" >
+<img src="/images/personal/web_award.jpg" alt="Cloud1" align="right"height="450px" >
 
+<p>
+  <em1>2023</em1> Characteristics of global precipitation extremes in CMIP6 models: <em2>Annual Monsoon Workshop and National Symposium on Challenges in Climate services for health sector in the warming environment held from 28th to 30th March 2023 at IITM Pune organized by Indian Meteorological Society.</em2> <em3>Secured 3rd prize</em3> </p>
+<p>
+  <em1>2023</em1> Cloud Physics seminar on ”Mesoscale Convective Systems”, on Science Day <em2>(28th Feb)</em2> at Savitribai Phule Pune University, India.</p>
 
-  * **2023** Characteristics of global precipitation extremes in CMIP6 models: *Annual Monsoon Workshop and National Symposium on Challenges in Climate services for health sector in the warming environment held from 28th to 30th March 2023 at IITM Pune organized by Indian Meteorological Society.* **Secured 3rd prize**
+<h1> Posters</h1>
+ <p> <em1>Nishant N. Uchale</em1>, & Jim Thomas (2024): Energy transfers in internal-gravity wave turbulence, <em2>”Moist Convective Dynamics of Monsoons” at ICTS-TIFR, Bangalore, India.</em2></p>
 
-  * **2023** Cloud Physics seminar on ”Mesoscale Convective Systems”, on Science Day *(28th Feb)* at Savitribai Phule Pune University, India.
+ <p> <em1>Nishant N. Uchale</em1>, & Jim Thomas (2024): Energy transfers in the internal-wave continuum, <em2>”Climate Dynamics and Networks” at ICTS-TIFR, Bangalore, India.</em2></p>
 
-# Poster
-  * **Nishant N. Uchale**, & Jim Thomas (2024): Energy transfers in internal-gravity wave turbulence, *”Moist Convective Dynamics of Monsoons” at ICTS-TIFR, Bangalore, India.*
+  <p><em1>Nishant N. Uchale</em1>, & Bhupendra Bahadur Singh (2024): Characteristics and projected changes in maximum daily precipitation across the globe, <em2>”Theoretical and Practical Perspectives in Geophysical Fluid Dynamics” at ICTS-TIFR, Bangalore, India.</em2></p>
 
-  * **Nishant N. Uchale**, & Jim Thomas (2024): Energy transfers in the internal-wave continuum, *”Climate Dynamics and Networks” at ICTS-TIFR, Bangalore, India.*
+  <p><em1>Nishant N. Uchale</em1>, & Bhupendra Bahadur Singh, Pradeep Kumar Pallath (2023): Analysis of global precipitation extremes in CMIP6 models, <em2> National Symposium **TROPMET-2023** on Changing Dynamics of Arid Region and Impact on Weather and Climate over Indian Sub-continent organized by Indian Meteorological Society and Birla Institute of Technology, Mesra, Jaipur, India.</em2></p>
 
-  * **Nishant N. Uchale**, & Bhupendra Bahadur Singh (2024): Characteristics and projected changes in maximum daily precipitation across the globe, *”Theoretical and Practical Perspectives in Geophysical Fluid Dynamics” at ICTS-TIFR, Bangalore, India.*
-
-  * **Nishant N. Uchale**, & Bhupendra Bahadur Singh, Pradeep Kumar Pallath (2023): Analysis of global precipitation extremes in CMIP6 models, *National Symposium **TROPMET-2023** on Changing Dynamics of Arid Region and Impact on Weather and Climate over Indian Sub-continent organized by Indian Meteorological Society and Birla Institute of Technology, Mesra, Jaipur, India.*
-
-  * **Nishant N. Uchale**, Bhupendra Bahadur Singh, Pradeep Kumar Pallath (2023): Characteristics of global precipitation extremes in CMIP6 models, *”WCRP Open Science Conference” held in Kigali, Rwanda, on 23-27 October 2023 (online)*.
+  <p><em1>Nishant N. Uchale</em1>, Bhupendra Bahadur Singh, Pradeep Kumar Pallath (2023): Characteristics of global precipitation extremes in CMIP6 models, <em2>”WCRP Open Science Conference” held in Kigali, Rwanda, on 23-27 October 2023 (online)</em2>.</p>
 
 <!-- ![AMS talk](/images/personal/web_poster.jpg){: .align-left width="310px" height="150px" margin-left border-radius: 8px}
 ![AMS talk](/images/personal/web_posexp.jpg){: .align-right width="310px" height="150px" margin-right border-radius: 8px} -->
