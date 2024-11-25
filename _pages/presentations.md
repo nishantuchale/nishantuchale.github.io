@@ -47,7 +47,8 @@ em3 { font-weight: bold; font-style: italic;}
 
 <img src="/images/personal/web_poster.jpg" alt="Cloud1" style="width:350px height:350px" >
 <img src="/images/personal/web_posexp.jpg" alt="Cloud1" style="width:350px height:350px" >
-</full-width-text>
+<nbsp>
+<!-- </full-width-text> -->
 <!-- <div class="timelineitem">
   <div class="tdate"> Apr 2023 </div>
   <div class="ttitle">Characteristics of global precipitation extremes in CMIP6 models </div>
