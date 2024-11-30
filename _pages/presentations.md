@@ -36,11 +36,11 @@ em3 { font-weight: bold; font-style: italic;}
 
  <p> <em1>Nishant N. Uchale</em1>, & Jim Thomas (2024): Energy transfers in the internal-wave continuum, <em2>”Climate Dynamics and Networks” at ICTS-TIFR, Bangalore, India.</em2></p>
 
-<img src="/images/personal/mcdm_icts_web.jpg" alt="Cloud1"  style="height:350px width:270px;" align="left">
-
   <p><em1>Nishant N. Uchale</em1>, & Bhupendra Bahadur Singh (2024): Characteristics and projected changes in maximum daily precipitation across the globe, <em2>”Theoretical and Practical Perspectives in Geophysical Fluid Dynamics” at ICTS-TIFR, Bangalore, India.</em2></p>
 
   <p><em1>Nishant N. Uchale</em1>, & Bhupendra Bahadur Singh, Pradeep Kumar Pallath (2023): Analysis of global precipitation extremes in CMIP6 models, <em2> National Symposium </em2> <em1>TROPMET-2023</em1> <em2>on Changing Dynamics of Arid Region and Impact on Weather and Climate over Indian Sub-continent organized by Indian Meteorological Society and Birla Institute of Technology, Mesra, Jaipur, India.</em2></p>
+
+<img src="/images/personal/mcdm_icts_web.jpg" alt="Cloud1"  style="height:450px width:270px;" align="right">
 
   <p><em1>Nishant N. Uchale</em1>, Bhupendra Bahadur Singh, Pradeep Kumar Pallath (2023): Characteristics of global precipitation extremes in CMIP6 models, <em2>”WCRP Open Science Conference” held in Kigali, Rwanda, on 23-27 October 2023 (online)</em2>.</p>
 
