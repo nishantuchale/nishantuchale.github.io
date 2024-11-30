@@ -31,10 +31,12 @@ em3 { font-weight: bold; font-style: italic;}
   <em1>2023</em1> Cloud Physics seminar on ”Mesoscale Convective Systems”, on Science Day <em2>(28th Feb)</em2> at Savitribai Phule Pune University, India.</p>
 
 <h1> Posters</h1>
-<img src="/images/personal/mcdm_icts_web.jpg" alt="Cloud1"  style="height:320px width:270px;" align="right">
+
  <p> <em1>Nishant N. Uchale</em1>, & Jim Thomas (2024): Energy transfers in internal-gravity wave turbulence, <em2>”Moist Convective Dynamics of Monsoons” at ICTS-TIFR, Bangalore, India.</em2></p>
 
  <p> <em1>Nishant N. Uchale</em1>, & Jim Thomas (2024): Energy transfers in the internal-wave continuum, <em2>”Climate Dynamics and Networks” at ICTS-TIFR, Bangalore, India.</em2></p>
+
+<img src="/images/personal/mcdm_icts_web.jpg" alt="Cloud1"  style="height:350px width:270px;" align="left">
 
   <p><em1>Nishant N. Uchale</em1>, & Bhupendra Bahadur Singh (2024): Characteristics and projected changes in maximum daily precipitation across the globe, <em2>”Theoretical and Practical Perspectives in Geophysical Fluid Dynamics” at ICTS-TIFR, Bangalore, India.</em2></p>
 
