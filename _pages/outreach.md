@@ -21,10 +21,10 @@ em3 { font-weight: bold; font-style: italic;}
 
   
 <ul>
-  <li>Contributed and volunteered in an initiative <em1>"Talking the Taboo"</em1> by <em2>Learnmates Foundation</em2>. This particular initiative aims to mainstream "Menstruation" in education and break the code of shyness and secrecy about menstruation</li>
+  <li>Contributed and volunteered in an initiative <em1>"Talking the Taboo"</em1> by <em2>Learnmates Foundation</em2>. This particular initiative aims to mainstream "Menstruation" in education and break the code of shyness and secrecy about menstruation.</li>
 
 <iframe width="520" height="350"
-src="https://youtu.be/ZM1MIxveHt4">
+src="https://www.youtube.com/watch?v=ZM1MIxveHt4">
 </iframe>
   
 </ul>  
