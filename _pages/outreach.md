@@ -18,14 +18,16 @@ em1 { font-weight: bold; }
 em2 { font-style: italic; }
 em3 { font-weight: bold; font-style: italic;}
 </style>
-</head>
-<body>
+
   
 <ul>
   <li>Contributed and volunteered in an initiative <em3>"Talking the Taboo"</em3> by Learnmates Foundation. This particular initiative aims to mainstream "Menstruation" in education and break the code of shyness and secrecy about menstruation</li>
 
-<iframe width="520" height="415"
+<iframe width="520" height="350"
 src="https://youtu.be/ZM1MIxveHt4">
 </iframe>
   
 </ul>  
+
+</head>
+<body>
