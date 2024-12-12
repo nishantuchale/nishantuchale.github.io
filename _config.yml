@@ -62,7 +62,7 @@ facebook:
   username               : #hamidrixvi
   app_id                 :
   publisher              :
-og_image                 : hp.jpg # Open Graph/Twitter default site image
+og_image                 : hp.JPG # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Nishant N. Uchale"
-  avatar           : "hp.jpg"
+  avatar           : "hp.JPG"
   bio              : "Visiting Research Student at International Centre for Theoretical Sciences (ICTS), Tata Institute of Fundamental Research (TIFR)"
   location         : Bangalore, India
   employer         : 
