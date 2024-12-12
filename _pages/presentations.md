@@ -8,11 +8,11 @@ header:
 <html>
 <head>
 <style>
-img {
+/* img {
   border-radius: 20px;
   padding: 15px;
   width:350px;
-}
+} */
 em1 { font-weight: bold; }
 em2 { font-style: italic; }
 em3 { font-weight: bold; font-style: italic;}
