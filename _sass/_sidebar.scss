@@ -87,7 +87,7 @@
     max-height: 250px;
     border-radius: 55%;
 
-    @include breakpoint($-large) {
+    @include breakpoint($x-large) {
       padding: 7px;
       border: 2px solid $border-color;
     }
@@ -112,14 +112,14 @@
 .author__name {
   margin: 0;
 
-  @include breakpoint($xlarge) {
+  @include breakpoint($xx-large) {
     margin-top: 10px;
     margin-bottom: 10px;
   }
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-8;
+  font-size: $xx-large;
 }
 
 .author__bio {
@@ -173,7 +173,7 @@
   box-shadow: 0 0 10px rgba(#000, 0.25);
   cursor: default;
 
-  @include breakpoint($large) {
+  @include breakpoint($x-large) {
     display: block;
     position: relative;
     margin: 0;
