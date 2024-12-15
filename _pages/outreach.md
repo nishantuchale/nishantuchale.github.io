@@ -4,7 +4,7 @@ title: "Outreach"
 author_profile: true
 header:
   overlay_image: global_temp_stripes.png
-  overlay_filter: "0.1"
+  overlay_filter: "0.3"
   caption: "[Global temp anomaly from 1850-2018. Image courtesy: Syed Hamid Ali](https://en.wikipedia.org/wiki/Warming_stripes)"
 ---
 <html>
