@@ -1,6 +1,7 @@
 ---
 permalink: /outreach/
 title: "Outreach"
+author_profile: true
 header:
   overlay_image: global_temp_stripes.png
   overlay_filter: "0.1"
