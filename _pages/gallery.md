@@ -5,7 +5,7 @@ author_profile: true
 header:
   overlay_image: Banner_front4.png
   overlay_filter: "0.01"
-  caption: "[Syed Hamid Ali](https://github.com/syedhamidali)"
+  caption: "[Courtesy: Syed Hamid Ali](https://github.com/syedhamidali)"
 
 ---
 <html>
