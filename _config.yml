@@ -200,6 +200,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
+      classes: wide
       share: true
       related: true
   # _pages
@@ -218,6 +219,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      classes: wide
       comments: true
   # _publications
   - scope:
@@ -227,6 +229,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      classes: wide
       comments: true
   # _research
   - scope:
@@ -236,6 +239,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      classes: wide
       comment: true
   # _talks
   - scope:
@@ -245,6 +249,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+      classes: wide
 
 # Sass/SCSS
 sass:
