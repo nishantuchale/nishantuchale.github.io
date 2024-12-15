@@ -2,6 +2,7 @@
 permalink: /
 title: "Hello!"
 author_profile: true
+classes: wide
 header:
   overlay_image: Banner-Front2.png
   overlay_filter: "0.001"
