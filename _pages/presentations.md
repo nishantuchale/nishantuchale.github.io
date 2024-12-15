@@ -3,7 +3,7 @@ permalink: /presentations/
 title: "Presentations"
 header:
   overlay_image: ocean_wave.png
-  overlay_filter: "1.0"
+  overlay_filter: "0.1"
 
 ---
 <html>

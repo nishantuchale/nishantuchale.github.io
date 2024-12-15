@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 header:
   overlay_image: gfd.png
-  overlay_filter: "1.0"
+  overlay_filter: "0.1"
   caption: "[Goddard Space Flight Center (GSFC)-NASA](https://svs.gsfc.nasa.gov/vis/a030000/a030000/a030017/frames/4000x2000_2x1_30p/rad/)"
   
 ---
