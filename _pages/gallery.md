@@ -4,7 +4,8 @@ title: "Gallery"
 permalink: /gallery/
 author_profile: true
 header:
-  image: Banner_front4.png
+  overlay_image: Banner_front4.png
+  overlay_filter: "0.01"
   caption: "[Syed Hamid Ali](https://github.com/syedhamidali)"
 
 ---
