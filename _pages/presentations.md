@@ -1,8 +1,9 @@
 ---
 permalink: /presentations/
-title: "Talks"
+title: "Presentations"
 header:
-  image: ocean_wave.png
+  overlay_image: ocean_wave.png
+  overlay_filter: "1.0"
 
 ---
 <html>
@@ -20,6 +21,7 @@ em3 { font-weight: bold; font-style: italic;}
 </head>
 <body>
 
+<h1>Talks</h1>
 <!-- ![AMS talk](/images/personal/web_talk2.png){: .align-right width="300px" height="200px" margin-right} -->
 <!-- ![AMS talk](/images/personal/web_award.jpg){: .align-right width="300px" height="300px" margin-right} -->
 <img src="/images/personal/web_award.jpg" alt="Cloud1"  style="height:320px width:270px;" align="right">
