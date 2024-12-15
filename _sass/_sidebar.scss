@@ -13,7 +13,7 @@
     @include clearfix();
     margin-bottom: 1em;
   
-    @include breakpoint($x-large) {
+    @include breakpoint($large) {
       @include span(2 of 12);
       opacity: 1;
       -webkit-transition: opacity 0.2s ease-in-out;
@@ -25,7 +25,7 @@
     }
   
   
-    @include breakpoint($xx-large) {
+    @include breakpoint($x-large) {
       padding-right: 0;
     }
   
@@ -52,7 +52,7 @@
   .sidebar__right {
     margin-bottom: 1em;
     
-    @include breakpoint($x-large) {
+    @include breakpoint($large) {
       position: sticky !important;
       float: right !important;
       top: 0;
@@ -76,7 +76,7 @@
     // set width only, for non-square avatars
     height: 40px;
   
-    @include breakpoint($x-large) {
+    @include breakpoint($large) {
       display: block;
       width: auto;
       height: auto;
@@ -87,7 +87,7 @@
       max-width: 250px;
       border-radius: 55%;
   
-      @include breakpoint($x-large) {
+      @include breakpoint($large) {
         padding: 5px;
         border: 2px solid $border-color;
       }
@@ -101,7 +101,7 @@
     padding-right: 25px;
     line-height: 1;
   
-    @include breakpoint($x-large) {
+    @include breakpoint($large) {
       display: block;
       width: 100%;
       padding-left: 0;
@@ -112,7 +112,7 @@
   .author__name {
     margin: 0;
   
-    @include breakpoint($x-large) {
+    @include breakpoint($large) {
       margin-top: 10px;
       margin-bottom: 10px;
     }
@@ -125,7 +125,7 @@
   .author__bio {
     margin: 0;
   
-    @include breakpoint($x-large) {
+    @include breakpoint($large) {
       margin-top: 10px;
       margin-bottom: 20px;
     }
@@ -146,14 +146,14 @@
       }
     }
   
-    @include breakpoint($x-large) {
+    @include breakpoint($large) {
       display: block;
     }
   
     button {
       margin-bottom: 0;
   
-      @include breakpoint($x-large) {
+      @include breakpoint($large) {
         display: none;
       }
     }
@@ -173,7 +173,7 @@
     box-shadow: 0 0 10px rgba(#000, 0.25);
     cursor: default;
   
-    @include breakpoint($x-large) {
+    @include breakpoint($large) {
       display: block;
       position: relative;
       margin: 0;
@@ -195,7 +195,7 @@
       border-color: $border-color transparent;
       z-index: 0;
   
-      @include breakpoint($x-large) {
+      @include breakpoint($large) {
         display: none;
       }
     }
@@ -212,7 +212,7 @@
       border-color: #fff transparent;
       z-index: 1;
   
-      @include breakpoint($x-large) {
+      @include breakpoint($large) {
         display: none;
       }
     }
