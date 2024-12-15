@@ -13,7 +13,7 @@
     @include clearfix();
     margin-bottom: 1em;
   
-    @include breakpoint($x-large) {
+    @include breakpoint($xx-large) {
       @include span(2 of 12);
       opacity: 1;
       -webkit-transition: opacity 0.2s ease-in-out;
@@ -25,7 +25,7 @@
     }
   
   
-    @include breakpoint($x-large) {
+    @include breakpoint($xx-large) {
       padding-right: 0;
     }
   
@@ -76,7 +76,7 @@
     // set width only, for non-square avatars
     height: 40px;
   
-    @include breakpoint($x-large) {
+    @include breakpoint($xx-large) {
       display: block;
       width: auto;
       height: auto;
@@ -87,7 +87,7 @@
       max-width: 250px;
       border-radius: 55%;
   
-      @include breakpoint($x-large) {
+      @include breakpoint($xx-large) {
         padding: 5px;
         border: 2px solid $border-color;
       }
@@ -101,7 +101,7 @@
     padding-right: 25px;
     line-height: 1;
   
-    @include breakpoint($x-large) {
+    @include breakpoint($xx-large) {
       display: block;
       width: 100%;
       padding-left: 0;
@@ -125,7 +125,7 @@
   .author__bio {
     margin: 0;
   
-    @include breakpoint($x-large) {
+    @include breakpoint($xx-large) {
       margin-top: 10px;
       margin-bottom: 20px;
     }
