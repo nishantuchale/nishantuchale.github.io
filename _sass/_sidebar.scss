@@ -112,20 +112,20 @@
   .author__name {
     margin: 0;
   
-    @include breakpoint($large) {
+    @include breakpoint($xx-large) {
       margin-top: 10px;
       margin-bottom: 10px;
     }
   }
   .sidebar .author__name {
     font-family: $sans-serif;
-    font-size: $type-size-5;
+    font-size: $xx-large;
   }
   
   .author__bio {
     margin: 0;
   
-    @include breakpoint($large) {
+    @include breakpoint($x-large) {
       margin-top: 10px;
       margin-bottom: 20px;
     }
