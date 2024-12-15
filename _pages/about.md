@@ -1,10 +1,11 @@
 ---
 permalink: /
-title: "About me"
+title: "Hello!"
 excerpt: "About me"
 author_profile: true
 header:
-  image: Banner-Front2.png
+  overlay_image: Banner-Front2.png
+  overlay_filter: "0.001"
   caption: "[Courtesy: Syed Hamid Ali](https://github.com/syedhamidali)"
 redirect_from: 
   - /about/
