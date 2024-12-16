@@ -1,10 +1,11 @@
 ---
 permalink: /research/
 title: "Research"
+color: "#000"
 author_profile: true
 header:
-  overlay_image: gfd.png
-  overlay_filter: "0.3"
+  overlay_image: nimbus.jpg
+  overlay_filter: "0.1"
   caption: "[Goddard Space Flight Center (GSFC)-NASA](https://svs.gsfc.nasa.gov/vis/a030000/a030000/a030017/frames/4000x2000_2x1_30p/rad/)"
 ---
 I am broadly interested in the profound interactions and the interconnected dynamics between our Earth's atmosphere and oceans shaping our weather and climate
