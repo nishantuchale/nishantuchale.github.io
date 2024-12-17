@@ -46,12 +46,12 @@ div:after {
 <img src="/images/myclicked/pondiriver_cloudsys2.jpg" alt="Cloud1" height="270px" width="360px" >
 
 
-<video id="myVideo1" width="380px" height="430px" controls loop>
+<video id="myVideo1" width="380px" height="430px" controls loop autoplay muted>
   <source src="/images/myclicked/electrified_cumulonimbus.mp4" type="video/mp4">
   <!-- <source src="mov_bbb.ogg" type="video/ogg"> -->
   Your browser does not support HTML video.
 </video>
-<video id="myVideo2" width="380px" height="430px" controls loop>
+<video id="myVideo2" width="380px" height="430px" controls loop autoplay muted>
   <source src="/images/myclicked/shivani_cloudvideo.mp4" type="video/mp4">
   <!-- <source src="mov_bbb.ogg" type="video/ogg"> -->
   Your browser does not support HTML video.
