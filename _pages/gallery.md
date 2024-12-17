@@ -45,12 +45,12 @@ div:after {
 <img src="/images/myclicked/pondibeach_cloud.jpg" alt="Cloud1" style="height:100px width:150px;" >
 <img src="/images/myclicked/pondiriver_cloudsys2.jpg" alt="Cloud1" style="height:100px width:150px;" >
 
-<video width="350px" height="350px" autoplay>
+<video width="350px" height="350px" autoplay muted>
   <source src="/images/myclicked/electrified_cumulonimbus.mp4" type="video/mp4">
   <!-- <source src="mov_bbb.ogg" type="video/ogg"> -->
   Your browser does not support HTML video.
 </video>
-<video width="350px" height="350px" autoplay>
+<video width="350px" height="350px" autoplay muted>
   <source src="/images/myclicked/shivani_cloudvideo.mp4" type="video/mp4">
   <!-- <source src="mov_bbb.ogg" type="video/ogg"> -->
   Your browser does not support HTML video.
