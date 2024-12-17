@@ -38,24 +38,36 @@ div:after {
 ![AMS talk](/images/myclicked/pondicity_cloud.jpg){: .align-center width="300px" height="250px" margin-right} -->
 
 <h1>
-<img src="/images/myclicked/shivani_cloud1.jpg" alt="Cloud1" style="height:150px width:150px;" >
-<img src="/images/myclicked/shivani_cloud2.jpg" alt="Cloud1" style="height:150px width:150px;" >
-<img src="/images/myclicked/pondiriver_cloudsys.jpg" alt="Cloud1" style="height:100px width:150px;" >
-<img src="/images/myclicked/pondicity_cloud.jpg" alt="Cloud1" style="height:100px width:150px;" >
-<img src="/images/myclicked/pondibeach_cloud.jpg" alt="Cloud1" style="height:100px width:150px;" >
-<img src="/images/myclicked/pondiriver_cloudsys2.jpg" alt="Cloud1" style="height:100px width:150px;" >
+<img src="/images/myclicked/shivani_cloud1.jpg" alt="Cloud1" height="100px" width="150px" >
+<img src="/images/myclicked/shivani_cloud2.jpg" alt="Cloud1" height="100px" width="150px" >
+<img src="/images/myclicked/pondiriver_cloudsys.jpg" alt="Cloud1" height="100px" width="150px" >
+<img src="/images/myclicked/pondicity_cloud.jpg" alt="Cloud1" height="100px" width="150px" >
+<img src="/images/myclicked/pondibeach_cloud.jpg" alt="Cloud1" height="100px" width="150px" >
+<img src="/images/myclicked/pondiriver_cloudsys2.jpg" alt="Cloud1" height="100px" width="150px" >
 
-<video width="350px" height="350px" autoplay muted>
+<button onclick="playVid()" type="button">Play</button>
+
+<video id="myVideo1" width="350px" height="350px">
   <source src="/images/myclicked/electrified_cumulonimbus.mp4" type="video/mp4">
   <!-- <source src="mov_bbb.ogg" type="video/ogg"> -->
   Your browser does not support HTML video.
 </video>
-<video width="350px" height="350px" autoplay muted>
+<video id="myVideo2" width="350px" height="350px">
   <source src="/images/myclicked/shivani_cloudvideo.mp4" type="video/mp4">
   <!-- <source src="mov_bbb.ogg" type="video/ogg"> -->
   Your browser does not support HTML video.
 </video>
 <!-- <img src="/images/myclicked/electrified_cumulonimbus.mp4" alt="Cloud1" style="width:350px height:350px;" >
 <img src="/images/myclicked/shivani_cloudvideo.mp4" alt="Cloud1" style="width:350px height:350px;" > -->
+
+<script> 
+let vid = document.getElementById("myVideo1"); 
+let vid = document.getElementById("myVideo2"); 
+
+function playVid() { 
+  vid.play(); 
+} 
+
+</script>
 
 </h1>
