@@ -18,7 +18,7 @@ Currently, I have been working under Prof. Jim Thomas in the [GFD group](https:/
 
 # Publications
 1. **Uchale, N. N.** & Singh, B. B. (2024) Characteristics and projected changes in maximum daily precipitation across the
-globe. Quarterly Journal of Royal Meteorological Society.[link](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.4912)
+globe. ***Quarterly Journal of Royal Meteorological Society***, 1-21. Available from: https://doi.org/10.1002/qj.491[link](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.4912)
 2. Singh, B. B. & **Uchale, N. N.** (2025) Which continents and ocean basins are more susceptible to strong changes in precipitation extremes in a warmer climate. ***In prep***
 3. **Uchale, N. N.** & Thomas, J. (2025) Energy transfers in internal gravity wave turbulence. ***In prep***
 <nbsp>
