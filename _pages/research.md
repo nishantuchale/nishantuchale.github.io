@@ -13,7 +13,7 @@ header:
 <head>
 <style>
 img {
-  border-radius: 20px;
+  border-radius: 30px;
   padding: 15px;
 }
 em1 { font-weight: bold; }
@@ -23,15 +23,14 @@ em3 { font-weight: bold; font-style: italic;}
 </head>
 <body>
 
-<a href="http://cccr.tropmet.res.in/home/index.jsp">Centre for Climate Change and Research</a>
 
 <p>
 I am broadly interested in the profound interactions and the interconnected dynamics between our Earth's atmosphere and oceans shaping our weather and climate.</p>
 
 <p>
-I have worked under Dr. Bhupendra Singh at the [Centre for Climate Change and Research](http://cccr.tropmet.res.in/home/index.jsp) since July 2022 on projects related to precipitation extremes and exploring its changing dynamics in a warming climate.</p>
+I have worked under Dr. Bhupendra Singh at the <a href="http://cccr.tropmet.res.in/home/index.jsp">Centre for Climate Change and Research</a> since July 2022 on projects related to precipitation extremes and exploring its changing dynamics in a warming climate.</p>
 
-<img src="/images/research/Significance.png" alt="Significance"  style="height:250px width:470px;" align="right">
+<img src="/images/research/Significance.png" alt="Significance"  style="height:100px width:270px;" align="right">
 
 <p>
 Later I have worked under Prof. Vishal Dixit at the <a href="https://sites.google.com/view/vishaldixit/group?authuser=0">Monsoon Dynamics Lab</a> in IIT Bombay since Aug 2023 to Jan 2024 on developing a relationship between near-surface air temperature and humidity and understand the mechanism leading to temperature extremes.</p>
@@ -42,7 +41,7 @@ Currently, I have been working under Prof. Jim Thomas in the <a href="https://ww
 <h1> Publications</h1>
 <p>
 1. <em1>Uchale, N. N.</em1> & Singh, B. B. (2024) Characteristics and projected changes in maximum daily precipitation across the
-globe. *Quarterly Journal of Royal Meteorological Society*, 1-21. Available from: https://doi.org/10.1002/qj.4912 [<em1>link</em1>](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.4912)</p>
+globe. *Quarterly Journal of Royal Meteorological Society*, 1-21. Available from: https://doi.org/10.1002/qj.4912 <a href="https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.4912"><em1>link</em1></a></p>
 
 <p>
 2. Singh, B. B. & <em1>Uchale, N. N.</em1> (2025) Which continents and ocean basins are more susceptible to strong changes in precipitation extremes in a warmer climate. <em3>In prep</em3></p>
