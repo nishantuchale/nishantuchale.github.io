@@ -41,7 +41,7 @@ Currently, I have been working under Prof. Jim Thomas in the <a href="https://ww
 <h1> Publications</h1>
 <p>
 1. <em1>Uchale, N. N.</em1> & Singh, B. B. (2024) Characteristics and projected changes in maximum daily precipitation across the
-globe. *Quarterly Journal of Royal Meteorological Society*, 1-21. Available from: https://doi.org/10.1002/qj.4912 <a href="https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.4912"><em1>link</em1></a></p>
+globe. <em2>Quarterly Journal of Royal Meteorological Society</em2>, 1-21. Available from: https://doi.org/10.1002/qj.4912 <a href="https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.4912"><em1>link</em1></a></p>
 
 <p>
 2. Singh, B. B. & <em1>Uchale, N. N.</em1> (2025) Which continents and ocean basins are more susceptible to strong changes in precipitation extremes in a warmer climate. <em3>In prep</em3></p>
