@@ -23,19 +23,21 @@ em3 { font-weight: bold; font-style: italic;}
 </head>
 <body>
 
+<a href="http://cccr.tropmet.res.in/home/index.jsp">Centre for Climate Change and Research</a>
+
 <p>
 I am broadly interested in the profound interactions and the interconnected dynamics between our Earth's atmosphere and oceans shaping our weather and climate.</p>
-
-<img src="/images/research/Significance.png" alt="Significance"  style="height:250px width:470px;" align="right">
 
 <p>
 I have worked under Dr. Bhupendra Singh at the [Centre for Climate Change and Research](http://cccr.tropmet.res.in/home/index.jsp) since July 2022 on projects related to precipitation extremes and exploring its changing dynamics in a warming climate.</p>
 
-<p>
-Later I have worked under Prof. Vishal Dixit at the [Monsoon Dynamics Lab](https://sites.google.com/view/vishaldixit/group?authuser=0) in IIT Bombay since Aug 2023 to Jan 2024 on developing a relationship between near-surface air temperature and humidity and understand the mechanism leading to temperature extremes.</p>
+<img src="/images/research/Significance.png" alt="Significance"  style="height:250px width:470px;" align="right">
 
 <p>
-Currently, I have been working under Prof. Jim Thomas in the [GFD group](https://github.com/GFD-Tifr) at ICTS-TIFR and TIFR-CAM since Feb 2024 where I am working on understanding the energy flow pathways in the internal wave continuum in oceans. My ongoing research work is supported by the Summer Research Fellowship and the Long-Term Visiting Student Research Fellowship.</p>
+Later I have worked under Prof. Vishal Dixit at the <a href="https://sites.google.com/view/vishaldixit/group?authuser=0">Monsoon Dynamics Lab</a> in IIT Bombay since Aug 2023 to Jan 2024 on developing a relationship between near-surface air temperature and humidity and understand the mechanism leading to temperature extremes.</p>
+
+<p>
+Currently, I have been working under Prof. Jim Thomas in the <a href="https://www.icts.res.in/research/fluid-dynamics">Fluid Dynamics and Turbulence group</a> at ICTS-TIFR and TIFR-CAM since Feb 2024 where I am working on understanding the energy flow pathways in the internal wave continuum in oceans. My ongoing research work is supported by the Summer Research Fellowship and the Long-Term Visiting Student Research Fellowship.</p>
 
 <h1> Publications</h1>
 <p>
