@@ -30,7 +30,10 @@ I am broadly interested in the profound interactions and the interconnected dyna
 <p>
 I have worked under Dr. Bhupendra Singh at the <a href="http://cccr.tropmet.res.in/home/index.jsp">Centre for Climate Change and Research</a> since July 2022 on projects related to precipitation extremes and exploring its changing dynamics in a warming climate.</p>
 
+<figure>
 <img src="/images/research/Significance.png" alt="Significance"  style="height:100px width:270px;" align="right">
+<figcaption> <em2>Difference map of Annual Daily Maximum Precipitation for CMIP6 multi-model mean between Future period (2015=2100) for SSP585 scenario and Historical period (1850-2014). The gray dots indicate the significance of difference at 99% confidence interval.</em2> </figcaption>
+</figure>
 
 <p>
 Later I have worked under Prof. Vishal Dixit at the <a href="https://sites.google.com/view/vishaldixit/group?authuser=0">Monsoon Dynamics Lab</a> in IIT Bombay since Aug 2023 to Jan 2024 on developing a relationship between near-surface air temperature and humidity and understand the mechanism leading to temperature extremes.</p>
