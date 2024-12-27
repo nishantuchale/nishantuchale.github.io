@@ -42,7 +42,7 @@ Later I have worked under Prof. Vishal Dixit at the <a href="https://sites.googl
 Currently, I have been working under Prof. Jim Thomas in the <a href="https://www.icts.res.in/research/fluid-dynamics">Fluid Dynamics and Turbulence group</a> at ICTS-TIFR and TIFR-CAM since Feb 2024 where I am working on understanding the energy flow pathways in the internal wave continuum in oceans. My ongoing research work is supported by the Summer Research Fellowship and the Long-Term Visiting Student Research Fellowship.</p>
 
 <!-- <figure> -->
-<img src="/images/research/3D_nowave.png" alt="3dnowave"  height="150px" width="150px" align="left">
+<img src="/images/research/3D_nowave.png" alt="3dnowave"  height="250px" width="250px" align="center">
 <figcaption> <em2>Balanced flow dominated regime.</em2> </figcaption>
 <!-- </figure> -->
 
